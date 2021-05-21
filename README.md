@@ -25,7 +25,7 @@ The prerequisites are:
 - [Python 3.8](https://docs.python.org/3.8/) 
 - [Pipenv](https://pipenv.readthedocs.io/en/latest/) 
 
-Then clone the [repository](https://github.com/2hard4me/Breakout) and type:
+Then clone the [repository](https://github.com/2hard4me/Breakout_game) and type:
 
 ```
 pipenv install
